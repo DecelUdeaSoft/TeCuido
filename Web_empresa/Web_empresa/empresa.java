@@ -12,7 +12,7 @@ public class empresa {
         this.setTelefono(telefono);
         this.setNit(nit);
     }
-
+// logre clonar las clases con github desktop
     public String getNombre (){
 
         return this.nombre;
